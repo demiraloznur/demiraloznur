@@ -37,7 +37,7 @@ Bilgisayar Programcılığı mezunuyum. Kişisel projelerle kendimi geliştiriyo
 - Python Mid-Level Eğitimi, Tuncay Erol · devam ediyor
 - Python - Software Development Essentials (42 saat), Tuncay Erol · 2026
 - [AI Literacy](https://www.credly.com/go/TQmz8cQZ), IBM SkillsBuild (AI Agents Bootcamp kapsamında, Kodluyoruz & Patika.dev) · 2026
-- CCNA: Introduction to Networks, Cisco Networking Academy · 2025
+- [CCNA: Introduction to Networks](https://www.credly.com/badges/538e7916-5d6b-4898-87d7-28a73202044e), Cisco Networking Academy · 2025
 - HTML5 ile Web Geliştirme, BTK Akademi · 2024
 
 ### İletişim
