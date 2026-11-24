@@ -2,7 +2,7 @@
 
 **Junior Yazılım Geliştirici** · Bilgisayar Programcılığı mezunu · Bursa
 
-Bilgisayar Programcılığı mezunuyum. Kişisel projelerle kendimi geliştiriyor, junior yazılım geliştirici olarak ilk iş deneyimimi arıyorum. Doğru çözümün ihtiyaca göre şekillendiğine inanıyorum.
+Bilgisayar Programcılığı mezunuyum. Kişisel projelerle kendimi geliştiriyor, junior yazılım geliştirici olarak ilk iş deneyimimi arıyorum. Okulda öğrendiklerimi önce stajda gerçek bir sistemde, sonra kendi projelerimde uyguladım. Şimdi bunu bir ekibin parçası olarak yapmak istiyorum.
 
 **Portfolyo:** [demiraloznur.github.io](https://demiraloznur.github.io) · **CV:** [PDF olarak indir](https://demiraloznur.github.io/assets/oznur-demiral-cv.pdf)
 
@@ -13,7 +13,6 @@ Bilgisayar Programcılığı mezunuyum. Kişisel projelerle kendimi geliştiriyo
 - Python Mid-Level eğitimine devam ediyorum: SQLite, veri çekme, Selenium, API ve JSON entegrasyonu
 - Kişisel projeler geliştirip GitHub'da paylaşıyorum
 - İlk iş deneyimim için pozisyon arıyorum
-- Hedefim: DGS ile Yazılım Mühendisliği
 
 ### Kullandığım teknolojiler
 
