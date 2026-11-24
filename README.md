@@ -2,7 +2,7 @@
 
 **Junior Yazılım Geliştirici** · Bilgisayar Programcılığı mezunu · Bursa
 
-Fikirden tasarıma, tasarımdan çalışan koda: bir çözümün her adımında yer almaktan keyif alıyorum. Doğru çözümün ihtiyaca göre şekillendiğine inanıyorum.
+Bilgisayar Programcılığı mezunuyum. Kişisel projelerle kendimi geliştiriyor, junior yazılım geliştirici olarak ilk iş deneyimimi arıyorum. Doğru çözümün ihtiyaca göre şekillendiğine inanıyorum.
 
 **Portfolyo:** [demiraloznur.github.io](https://demiraloznur.github.io) · **CV:** [PDF olarak indir](https://demiraloznur.github.io/assets/oznur-demiral-cv.pdf)
 
