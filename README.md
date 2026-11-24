@@ -25,6 +25,14 @@ Bilgisayar Programcılığı mezunuyum. Kişisel projelerle kendimi geliştiriyo
 ![JavaScript](https://img.shields.io/badge/JavaScript-2B211C?style=flat-square&logo=javascript&logoColor=C4A48C)
 ![SQL](https://img.shields.io/badge/SQL-2B211C?style=flat-square&logo=sqlite&logoColor=C4A48C)
 ![Git](https://img.shields.io/badge/Git-2B211C?style=flat-square&logo=git&logoColor=C4A48C)
+![Figma](https://img.shields.io/badge/Figma-2B211C?style=flat-square&logo=figma&logoColor=C4A48C)
+
+### Deneyim
+
+- **Front-end geliştirme stajı** · İşletmede Mesleki Eğitim, 16 hafta · Eylül 2025 – Ocak 2026
+  Bir web ajansında, eğitim projesi olarak kurgulanan bir firma için çok sayfalı kurumsal web sitesini Figma tasarımından geliştirdim: semantik HTML, responsive CSS, vanilla JavaScript, performans optimizasyonu (Lighthouse 65 → 92) ve teknik SEO.
+- **Bilgi işlem stajı** · Temmuz – Ağustos 2025
+  Active Directory, donanım/yazılım kurulumu, ağ desteği, yedekleme ve sistem izleme.
 
 ### Öne çıkan proje
 
