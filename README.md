@@ -35,7 +35,7 @@ Bilgisayar Programcılığı mezunuyum. Kişisel projelerle kendimi geliştiriyo
 
 - Bilgisayar Programcılığı (Önlisans), Sakarya Uygulamalı Bilimler Üniversitesi · 2026
 - Python Mid-Level Eğitimi, Tuncay Erol · devam ediyor
-- Python Temel Eğitimi, Tuncay Erol · 2026
+- Python - Software Development Essentials (42 saat), Tuncay Erol · 2026
 - AI Agents Bootcamp, Kodluyoruz & Patika.dev, IBM SkillsBuild · 2026
 - CCNA: Introduction to Networks, Cisco Networking Academy · 2025
 - HTML5 ile Web Geliştirme, BTK Akademi · 2024
