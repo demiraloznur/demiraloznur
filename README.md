@@ -34,7 +34,9 @@ Bilgisayar Programcılığı mezunuyum. Kişisel projelerle kendimi geliştiriyo
 - **Bilgi işlem stajı** · Temmuz – Ağustos 2025
   Active Directory, donanım/yazılım kurulumu, ağ desteği, yedekleme ve sistem izleme.
 
-### Öne çıkan proje
+### Öne çıkan projeler
+
+**[ölçü studio · Yönetim paneli](https://github.com/demiraloznur/olcu-studio-panel)**: İnternet Programcılığı dersindeki Mini CRM ödevimden geliştirdiğim, kurgusal bir iç mimarlık stüdyosu için müşteri ve proje takip paneli. ASP.NET Core MVC, SQL Server ve elle yazılmış parametreli SQL; rol tabanlı yetki, güvenli şifre saklama, arama ve filtre, ilerleme notları ve xUnit testleri. Commit geçmişi okul teslimden bugüne her adımı gösteriyor.
 
 **[Kişisel portfolyo](https://github.com/demiraloznur/demiraloznur.github.io)**: Hazır şablon ve kütüphane kullanmadan, saf HTML, CSS ve JavaScript ile geliştirdiğim sitem. Bento düzen, açık/koyu tema geçişi, kaydırınca beliren bölümler, mobil uyum ve erişilebilirlik desteği içeriyor; temel işlevleri otomatik testlerle doğrulanıyor.
 
